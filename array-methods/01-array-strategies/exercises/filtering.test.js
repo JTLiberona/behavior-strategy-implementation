@@ -8,7 +8,7 @@
  */
 const filterOutStrings = (arr = []) => {
   const noStrings = [];
-  for (const _ of _) {
+  for (const values of arr) {
   }
 
   return noStrings;

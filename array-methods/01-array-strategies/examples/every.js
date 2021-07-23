@@ -35,4 +35,10 @@ for (const boolean of _4_booleans) {
   _4_allFalse = _4_allFalse && !boolean;
 }
 
+// Numbers MY EXAMPLE JT
+const _5_Numbers = [1, 2, 3, 4];
+let _5_allNumbers = true;
+for (const number of _5_Numbers) {
+  _5_allNumbers = _5_allNumbers && number;
+}
 console.log('-- end --');

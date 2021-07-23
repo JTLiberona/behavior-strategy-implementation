@@ -13,6 +13,7 @@ const _1_wordsWithA = [];
 for (const word of _1_words) {
   if (word.includes('a')) {
     _1_wordsWithA.push(word);
+    console.log(_1_wordsWithA);
   }
 }
 
@@ -23,6 +24,7 @@ const _2_lessThanZero = [];
 for (const number of _2_numbers) {
   if (number < 0) {
     _2_lessThanZero.push(number);
+    console.log(_2_lessThanZero);
   }
 }
 
@@ -31,6 +33,7 @@ const _3_evenNumbers = [];
 for (const number of _2_numbers) {
   if (number % 2 === 0) {
     _3_evenNumbers.push(number);
+    console.log(_3_evenNumbers);
   }
 }
 

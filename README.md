@@ -443,11 +443,10 @@ const repeatString = (text = '', repetitions = 1) => {
 
 1. Clone this repository:
    - `git clone git@github.com:HackYourFutureBelgium/behavior-strategy-implementation.git` (SSH)
-   - `git clone https://github.com/HackYourFutureBelgium/behavior-strategy-implementation.git` (HTTPS)
-   - `gh repo clone HackYourFutureBelgium/behavior-strategy-implementation` (GH CLI)
-1. `cd` into the repository
+2. `cd` into the repository
    - `cd behavior-strategy-implementation`
-1. Install dependencies: `npm install`
+3. Install dependencies:
+   - `npm install`
 
 ### In the Browser
 
@@ -733,9 +732,8 @@ This week take your first step to becoming an expert problem solver by studying 
 
 - Fork [solution-write-ups](https://github.com/HackYourFutureBelgium/solution-write-ups)
   - Read through the README, this will be your main exercise for the week.
-  - create a new folder called `add-up-the-numbers-from-a-single-number`
-  - create a README.md file in this folder using the `write-up-template.md`
-  - create an empty javascript file called `sandbox.test.js`
+  - Follow the instructions in **Getting Started** to locally set up your repository.
+  - Practice running the `sandbox.test.js` file in the example write-up, in VSCode and the browser. (instructions in **Getting Started**)
 - Read through [./about-testing/examples](./about-testing/examples) to be familiar with the syntax for `describe`, `it`, and `expect`
 - Create an account on [Edabit](https://edabit.com)
 
